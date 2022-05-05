@@ -71,17 +71,25 @@ Findings:
 ### Traffic: 
 ![image](https://user-images.githubusercontent.com/102266450/167042566-d6372c17-3686-4ea2-b1a3-0a5d44998a2f.png)
 Findings: 
-  1. X
-  2. X
+  1. We saw the most variance in scores from one release to next in this KPI. 
+  2. Once again, the second release ("750 million convert. notes) performed well above the industry standard. 
+  3. "Thought Leaders - OFC" and "Upcoming Investor Events" were 40 points and 36 points below the industry standard of 50, respectively. 
+Recommendations: 
+  1. From a traffic perspective, we need to ask our Cision partners why the lowest performing articles could not meet industry standards. We are interested in finding why traffic can vary so greatly from month-to-month. 
 
 ### Audience: 
 ![image](https://user-images.githubusercontent.com/102266450/167042590-6033b513-3b1d-4215-8030-8483fcc411b8.png)
 Findings: 
-  1. X
-  2. X
+  1. We do not make too much of these scores. The 'audience' KPI is the hardest to qauntify on a Q/Q basis. 
 
 ### Engagement: 
 ![image](https://user-images.githubusercontent.com/102266450/167042620-794a5007-950f-443b-b3a5-703fa8e4a8ea.png)
 Findings: 
-  1. X
-  2. X
+  1. 10 of 11 outperformed the industry standard score of 50 by more than 53%!
+  2. Engagement is most nearly tied to clicks, as is the TVI category. Here we are encouraged by nearly all articles as they continue to grow their engagement scores. 
+  3. It is important to note that the underperorming article ("") was only 8 points shy of hitting the industry standard to mark. 
+
+## Next Steps 
+  1. Confirm with Cision team on script accuracy. 
+  2. Set strategy according to KPIS over Q/Q historical data. We are increasingly seeing the trend of lackluster results in traffic, while still maintining high scores in total visibility and engagement. 
+ 
