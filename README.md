@@ -24,6 +24,7 @@ The dataframe displayed all rows and columns, included the following of interest
 ## Format Checks
 Then we ran simple count and data type checks on each column of interest, as shown below: 
 ![image](https://user-images.githubusercontent.com/102266450/167041562-74877183-16ca-4d21-82bf-23056076a2e3.png)
+
 We did notice that some columns, such as "Total Potential Audience" would not be possible map out as it is an 'object' type; whereas most of our data was 'integer' formatting. 
 
 ## Dataframes for bar charts
@@ -55,14 +56,17 @@ For the bar charts, we took the previously created dataframes, and repurposed in
 ### TVI: 
 ![image](https://user-images.githubusercontent.com/102266450/167042526-8aeed546-7025-4286-b5fe-b99357ee9e5b.png)
 Findings: 
-  1. X
-  2. X
+  1. 6 out of 11 releases fell below the industry baseline of a '50' score. 
+  2. The top 2 releases were: "Pricing of 750 Million Convertible Notes" and "Fiscal Q2 Financial Results" 
+Recommendation: 
+  1. For next quarter, we should check the 6 underperforming releases and check for word count, tone, and any other consistent formatting that was NOT found in the top performing releases. 
+  2. If we find no key differences in tone/writing style from the low and high performing releases, we then recommend to consider the content types for each release. It seems that financial releases are outperforming event articles, such as the OFC related content. 
   
 ### Pickup:
 ![image](https://user-images.githubusercontent.com/102266450/167042554-84b1c4c2-3105-4290-8fa9-dfbd78bd6e88.png)
 Findings: 
-  1. X
-  2. X
+  1. 11 of 11 releases outperformed the industry standard score of 50; the lowest performing article was set at a pikcup score of 75.
+  2. Clearly, we have no points of concern here. We only recommend comparing this to last Q and confirming this is alligned with corporate goals on where these releases are picked up. 
 
 ### Traffic: 
 ![image](https://user-images.githubusercontent.com/102266450/167042566-d6372c17-3686-4ea2-b1a3-0a5d44998a2f.png)
