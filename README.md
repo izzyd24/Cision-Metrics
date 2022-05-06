@@ -4,6 +4,12 @@ Tasked with finding the 5 metrics for Cision metrics report Q3.
 Our findings were focused on the KPIS of: TVI, pickup, audience, engagement, and traffic.
 Our subcategories included the click-through rate raw numbers. 
 
+## Non-Python Data
+Here we used over 1000+ rows of data to construct a quick pivot-chart of the total posts, engagements/engagement rate, and net audience growth over the period of 5 quarters spanning from FY21 Q3 - FY22 Q3. 
+![image](https://user-images.githubusercontent.com/102266450/167228914-0e456d46-8d8c-424e-acbb-536933dd4c60.png)
+![image](https://user-images.githubusercontent.com/102266450/167228949-21dac464-b1af-407d-92e8-3f30e87a249b.png)
+
+
 ## Construction 
 Leveraged Python via Jupyter Notebook to build out the necessary dataframes for both bar charts, and the 
 'heatmap' scatters. 
